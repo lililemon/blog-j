@@ -40,8 +40,8 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: '二丫讲梵', // 必需
-    link: 'https://github.com/eryajf', // 可选的
+    name: 'austin', // 必需
+    link: 'https://github.com/lililemon', // 可选的
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -50,24 +50,14 @@ module.exports = {
       {
         iconClass: 'icon-github',
         title: 'GitHub',
-        link: 'https://github.com/eryajf',
-      },
-      {
-        iconClass: 'icon-youjian',
-        title: '发邮件',
-        link: 'mailto:eryajf@163.com',
-      },
-      {
-        iconClass: 'icon-gitee',
-        title: 'Gitee',
-        link: 'https://gitee.com/eryajf',
-      },
+        link: 'https://github.com/lililemon',
+      }
     ],
   },
   footer: {
     // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-      'Eryajf | <a href="https://github.com/eryajf/blog-j/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'lililemon | <a href="https://github.com/lililemon/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   }
 }
