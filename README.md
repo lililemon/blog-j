@@ -1,14 +1,14 @@
-<h1 align="center">vdoing-template</h1>
+<h1 align="center">blog-j</h1>
 
 
 <div align="center">
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/blog-j)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/blog-j.svg)](https://github.com/eryajf/blog-j/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/blog-j)](https://github.com/eryajf/blog-j/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/blog-j)](https://github.com/eryajf/blog-j/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/blog-j)](https://github.com/eryajf/blog-j/blob/main/LICENSE)
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vdoing-template](https://github.com/eryajf/vdoing-template)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[blog-j](https://github.com/eryajf/blog-j)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
